@@ -25,7 +25,7 @@
 ### 💼 Currently
 
 - 🏢 AI Engineer Intern @ **Tech Mahindra** — shipped RAG pipeline for ESG compliance SaaS (i.Sustain) in production; built multi-tenant architecture + LLM benchmarking infra
-- 🎓 B.Tech CSBS @ **VIT-AP**, graduating May 2026
+- 🎓 B.Tech CSBS @ **VIT**, graduating May 2026
 - 📍 Pune, India · Open to remote
 
 ---
